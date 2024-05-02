@@ -15,7 +15,7 @@ do echo $i:latest; done
 ```
 a faster cache storing and not iter returns, a feed coloner. You can change the regular expression to add the number as \w+ or +\d to include any count.
 
-Gaurav Sablok \
+Gaurav \
 Academic Staff Member \
 Bioinformatics \
 Institute for Biochemistry and Biology \
